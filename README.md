@@ -1,6 +1,8 @@
 # **Car Evulation KNN of Machine Learning Software**
 I developed machine learning software that evaluates vehicles against certain conditions. In this software, I used KNN principles as a mathematical basis (Euclidean relation :)). I hope you like the machine learning software. Knowledge is good when shared!
 
+[KNN of Car in Machine Learning]
+
 The values you enter should be (respectively):
 
 **1) You need to enter data in the 'buying' section.**
@@ -49,3 +51,5 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://archive.ics.uci.edu/
+
+[KNN of Car in Machine Learning](Car Evulation KNN of Machine Learning Software Image.jpg)
