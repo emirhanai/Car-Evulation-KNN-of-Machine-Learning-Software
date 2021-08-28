@@ -52,4 +52,5 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 
 [DataSource]: https://archive.ics.uci.edu/
 
-[KNN of Car in Machine Learning](https://github.com/emirhanai/Car-Evulation-KNN-of-Machine-Learning-Software/blob/main/Car%20Evulation%20KNN%20of%20Machine%20Learning%20Software%20Image.jpg)
+[KNN of Car in Machine Learning](Evulation-KNN-of-Machine-Learning-Software/Car Evulation KNN of Machine Learning Software Image.jpg)
+
